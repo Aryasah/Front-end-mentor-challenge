@@ -8,7 +8,6 @@ This is a solution to the [Stats preview card component solutions challenge on F
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -40,12 +39,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Aryasah/Front-end-mentor-challenge)
-- Live Site URL: [Add live site URL here](https://tip-calculator-arya.netlify.app/)
+- Live Site URL: [Add live site URL here](https://aryasah.github.io/Front-end-mentor-challenge//)
 
-## My process
-
-- Firstly Take all colors and font size.
-- Then Started the challenge by initializing React app
 
 ### Built with
 
